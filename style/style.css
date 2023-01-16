@@ -99,7 +99,7 @@ img {
 
 .paragraf {
   margin-bottom: 20px;
-  width: 400px;
+  width: 500px;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
@@ -141,7 +141,7 @@ img {
   display: flex;
 }
 .skills {
-  width: 500px;
+  width: 600px;
   padding-top: 50px;
   padding-left: 30px;
   padding-bottom: 60px;
